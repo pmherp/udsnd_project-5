@@ -1,4 +1,4 @@
-# Experiment with data from Starbucks
+# Promotion Experiment with data from Starbucks and maximizing Metrics
 
 ## Project Motivation
 The goal of this project is to analyze this ranodmized dataset provided by Starbucks to see if handed promotions lead to an increase in purchases.
@@ -34,4 +34,5 @@ Philip M. Herp
 
 ## Licensing, Authors, Acknowledgements
 [Udacity](https://www.udacity.com/) provided the file templates and code snippets that were used in the web app. 
+
 [Starbucks](https://www.starbucks.com/) provided the dataset that was used to train the classifier.
