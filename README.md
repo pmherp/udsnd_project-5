@@ -37,4 +37,5 @@ Philip M. Herp
 
 ## Licensing, Authors, Acknowledgements
 [Udacity](https://www.udacity.com/) provided the file templates and code snippets that were used in the web app. 
+
 [Starbucks](https://www.starbucks.com/) provided the dataset that was used to train the classifier.
